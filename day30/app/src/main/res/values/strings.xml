@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">day30</string>
+
+    <string name="title1">Day1</string>
+    <string name="title2">Day2</string>
+    <string name="title3">Day3</string>
+    <string name="title4">Day4</string>
+    <string name="title5">Day5</string>
+
+</resources>
