@@ -69,7 +69,8 @@ fun DemoSlider(
         valueRange = 23f..37f, value = sliderPosition,
         onValueChange = {
             onPositionChange(it)
-        })
+        }
+    )
 }
 
 @Preview(showSystemUi = true)
